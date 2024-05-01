@@ -11,7 +11,7 @@
 <br>
 
 	
-## <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
+## <picture> <img src = "Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 
 <picture> <img align="right" src="Images/Right_Side.gif?raw=true" width = 250px></picture>
 

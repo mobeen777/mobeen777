@@ -76,15 +76,7 @@
  - ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=windows11&color=007ACC&logo=windows11&logoColor=FFFFFF&label=)
   ![JetBrain](https://img.shields.io/static/v1?style=for-the-badge&message=linux&color=black&logo=linux&logoColor=white&label=)
   ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=ubuntu&color=orange&logo=ubuntu&logoColor=white&label=)
- 
-<p align="center">
-&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-000000?style=plastic&logo=linux&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-</p>
+
 
 <br> 
 

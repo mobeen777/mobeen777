@@ -42,13 +42,13 @@
     ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 
 ### <picture> <img src = "Images/Front_End.gif?raw=true" width = 50px>  </picture> Web Technologies
-- Web Development:
+
   - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 
-### <picture> <img src = "### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrOGs5ZjU4enhhYmdxcjZuc2NqaWdlbjYwcjI4NWZ3NHY3Njl1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif?raw=true" width = 50px>  </picture> Databases
-- Databases:
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrOGs5ZjU4enhhYmdxcjZuc2NqaWdlbjYwcjI4NWZ3NHY3Njl1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif?raw=true" width = 50px>  </picture> Databases
+
   - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-" width = 50px>  </picture> Web Technologies
+" width = 50px>  </picture> 
 
 - ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
   ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)

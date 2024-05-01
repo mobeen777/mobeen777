@@ -17,20 +17,19 @@
 
 <br><br>
 
-- :school: I am a `Computer Science Student` at [Institute of Space Technology](https://www.ist.edu.pk/).
+- :school: I am a `Software Engineer` graduated from [National University of Sciences & Technology (NUST)](https://nust.edu.pk/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently doing BS in `Computer Science`.
+- :student: I’m currently working as back-end developer at Jobbio `Django Rest Frame-work`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY WEBSITE](https://muhammadmobeen.com).
+<!-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY WEBSITE](https://muhammadmobeen.com). -->
 <br>
-
 
 
 ## <picture> <img src="https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-<!-- 	<a href="mailto:mobeenahmed2002@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> -->
-	<a href="https://github.com/muhammad-mobeen"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mobeen360/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:mobeen.mobeen777@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/mobeen777"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/muhammad-mobeen-a158ab1b8/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 

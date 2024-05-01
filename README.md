@@ -25,7 +25,7 @@
 <br>
 
 
-## <picture> <img src="https://github.com/mobeen777/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 <!-- 	<a href="mailto:mobeen.mobeen777@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> -->
 	<a href="https://github.com/mobeen777"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -35,7 +35,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
   - ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
     ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)

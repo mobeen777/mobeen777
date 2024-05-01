@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-<img width="50%" height = "50%" src="Images/Headshot.jpg" alt="cover" />
+<img width="30%" height = "30%" src="Images/Headshot.jpg" alt="cover" />
 </div>
 
 

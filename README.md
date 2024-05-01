@@ -88,51 +88,6 @@
 
 ## <picture> <img src = "Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mobeen777&theme=radical" alt="mobeen777" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="mobeen777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mobeen777&show_icons=true&count_private=true&locale=en&theme=radical&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mobeen777&langs_count=10&show_icons=true&locale=en&theme=radical" alt="mobeen777" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-
-<a href="https://github.com/mobeen777"><img alt="muhammad-mobeen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mobeen777&custom_title=Muhammad%20Mobeen's%20Contribution%20Graph&theme=react-dark" /></a>
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobeen777&layout=compact&theme=radical&column=4&margin-w=15&margin-h=15" alt="mobeen777" /></a> </p>
-	
-</details>
-
-<details><summary> <h3> :medal_sports: Achievement Badges </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://holopin.io/@markhor"><img src="https://holopin.io/api/user/board?user=markhor" alt="@markhor's Holopin board" /></a> </p>
-	
-</details>
 	
 
 

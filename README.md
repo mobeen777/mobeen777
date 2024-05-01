@@ -66,18 +66,8 @@
 
  - ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
   ![JetBrain](https://img.shields.io/static/v1?style=for-the-badge&message=jetbrains&color=black&logo=jetbrains&logoColor=white&label=)
-  ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=jupyter&color=black&logo=jupyter&logoColor=white&label=)
+  ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=jupyter&color=orange&logo=jupyter&logoColor=white&label=)
 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-800080.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-000000.svg?style=plastic&logo=jupyter"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-</p>
 
 
  ### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems

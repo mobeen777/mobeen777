@@ -47,8 +47,6 @@
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrOGs5ZjU4enhhYmdxcjZuc2NqaWdlbjYwcjI4NWZ3NHY3Njl1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif?raw=true" width = 50px>  </picture> Databases
 
-  - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)  </picture> 
-
 - ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
   ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
   ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)

@@ -45,7 +45,17 @@
 - Web Development:
   - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 
+### <picture> <img src = "### <picture> <img src = "Images/Front_End.gif?raw=true" width = 50px>  </picture> Web Technologies
+- Databases:
+  - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)
+" width = 50px>  </picture> Web Technologies
 
+- ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+  ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+  ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+  ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+  
  ### <picture> <img src = "Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
   - ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)

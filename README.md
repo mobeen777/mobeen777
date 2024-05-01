@@ -13,7 +13,7 @@
 	
 ## <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 
-<picture> <img align="right" src="https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 

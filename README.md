@@ -70,7 +70,12 @@
 
 
 
- ### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+
+ 
+ - ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=windows11&color=007ACC&logo=windows11&logoColor=FFFFFF&label=)
+  ![JetBrain](https://img.shields.io/static/v1?style=for-the-badge&message=jetbrains&color=black&logo=jetbrains&logoColor=white&label=)
+  ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=jupyter&color=orange&logo=jupyter&logoColor=white&label=)
  
 <p align="center">
 &emsp;

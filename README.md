@@ -28,10 +28,10 @@
 ## <picture> <img src="Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saadjamilakhtar/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Saad+Jamil&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="></a>
-  <a href="mailto:saadjamilakhtar@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=saadjamilakhtar@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="></a>
-  <a href="https://saadjamil.me"><img alt="Website" src="https://img.shields.io/static/v1?style=for-the-badge&message=saadjamil.me&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label="></a>
-  <a href="https://medium.com/@saadjamilakhtar"><img alt="Medium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium/@saadjamilakhtar&color=000000&logo=Medium&logoColor=FFFFFF&label="></a>
+  <a href="https://www.linkedin.com/in/muhammad-mobeen-a158ab1b8/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Muhammad+Mobeen&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="></a>
+  <a href="mailto:mobeen.mobeen777@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=mobeen.mobeen777@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="></a>
+<!--  <a href="https://saadjamil.me"><img alt="Website" src="https://img.shields.io/static/v1?style=for-the-badge&message=saadjamil.me&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label="></a>
+  <a href="https://medium.com/@saadjamilakhtar"><img alt="Medium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium/@saadjamilakhtar&color=000000&logo=Medium&logoColor=FFFFFF&label="></a> -->
 </p>
 
 
@@ -120,7 +120,7 @@
 <h2>My GitHub History !</h2>
 
 <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadJamilAkhtar&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobeen777&theme=buefy&show_icons=true" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadJamilAkhtar&theme=buefy&layout=compact" /> -->
 </a>
 

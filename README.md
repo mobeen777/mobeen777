@@ -44,28 +44,9 @@
     ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 
 ### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Web Technologies
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-    <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDIyNi43NyAyMjYuNzciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4Ljk2NCA0LjI1MjcpIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iNCI+CiAgPHBhdGggZD0ibTYzLjAyIDIwMC42MS00My4yMTMtMTc0Ljk0IDE3My4yMyA0OS44NzR6Ii8+CiAgPHBhdGggZD0ibTEwNi4zOSA1MC42MTIgMjEuNTkxIDg3LjQ5Ni04Ni41NjctMjQuOTQ1eiIvPgogIDxwYXRoIGQ9Im04NC45MSAxMjUuMDMtMTAuNzI0LTQzLjQ2NSA0My4wMDggMTIuMzQ2eiIvPgogIDxwYXRoIGQ9Im02My40NTggMzguMTUzIDEwLjcyNCA0My40NjUtNDMuMDA4LTEyLjM0NnoiLz4KICA8cGF0aCBkPSJtMTQ5LjQ3IDYyLjkzIDEwLjcyNCA0My40NjUtNDMuMDA4LTEyLjM0NnoiLz4KICA8cGF0aCBkPSJtODQuOTE1IDEyNS4wNiAxMC43MjQgNDMuNDY1LTQzLjAwOC0xMi4zNDZ6Ii8+CiA8L2c+Cjwvc3ZnPgo="></a>
-</p>
+- Web Development:
+  - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)
+
 
  ### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  

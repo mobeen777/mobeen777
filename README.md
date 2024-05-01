@@ -26,11 +26,14 @@
 
 
 ## <picture> <img src="Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+
 <p align="center">
-<!-- 	<a href="mailto:mobeen.mobeen777@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> -->
-	<a href="https://github.com/mobeen777"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/muhammad-mobeen-a158ab1b8/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/saadjamilakhtar/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Saad+Jamil&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="></a>
+  <a href="mailto:saadjamilakhtar@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=saadjamilakhtar@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="></a>
+  <a href="https://saadjamil.me"><img alt="Website" src="https://img.shields.io/static/v1?style=for-the-badge&message=saadjamil.me&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label="></a>
+  <a href="https://medium.com/@saadjamilakhtar"><img alt="Medium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium/@saadjamilakhtar&color=000000&logo=Medium&logoColor=FFFFFF&label="></a>
 </p>
+
 
 
 ## 🛠️ My Skills
@@ -113,6 +116,17 @@
         <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
     </a>
 </p>
+
+<h2>My GitHub History !</h2>
+
+<a href="">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadJamilAkhtar&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadJamilAkhtar&theme=buefy&layout=compact" /> -->
+</a>
+
+<br/>
+
+
 
 
 <!--

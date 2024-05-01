@@ -66,7 +66,7 @@
 
  - ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
   ![JetBrain](https://img.shields.io/static/v1?style=for-the-badge&message=jetbrains&color=black&logo=jetbrains&logoColor=white&label=)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?style=plastic&logo=jupyter)
+  ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=jetbrains&color=black&logo=jupyter&logoColor=white&label=)
 
 <p align="center">
   &emsp;

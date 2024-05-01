@@ -65,7 +65,7 @@
  ### <picture> <img src = "Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
 
  - ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-  ![JetBrain](https://img.shields.io/static/v1?style=for-the-badge&message=jetbrains&color=007ACC&logo=jetbrains&logoColor=white&label=)
+  ![JetBrain](https://img.shields.io/static/v1?style=for-the-badge&message=jetbrains&color=black&logo=jetbrains&logoColor=white&label=)
   ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?style=plastic&logo=jupyter)
 
 <p align="center">

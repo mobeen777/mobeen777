@@ -62,8 +62,12 @@
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=) ![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=) ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=) ![Amazon Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Lambda&color=222222&logoColor=FF9900&label=)
   ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
- ### <picture> <img src = "https://github.com/muhammad-mobeen/muhammad-mobeen/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
+ ### <picture> <img src = "Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+
+ - ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+  ![JetBrain](https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?style=plastic&logo=jupyter)
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>

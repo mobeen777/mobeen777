@@ -45,7 +45,7 @@
 - Web Development:
   - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 
-### <picture> <img src = "### <picture> <img src = "Images/Front_End.gif?raw=true" width = 50px>  </picture> Web Technologies
+### <picture> <img src = "### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhrOGs5ZjU4enhhYmdxcjZuc2NqaWdlbjYwcjI4NWZ3NHY3Njl1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif?raw=true" width = 50px>  </picture> Web Technologies
 - Databases:
   - ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![Django REST Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Django+REST&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 " width = 50px>  </picture> Web Technologies
